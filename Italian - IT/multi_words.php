@@ -21,7 +21,7 @@ $langmultiwords = array(
 
 "TXT_VIEWALL"                => "View all",
 
-"TXT_H_YOURCOMPANY"          => "Your Company",
+"TXT_H_YOURCOMPANY"          => "La Tua Compagnia",
 
 "TXT_NOT_SET"                => "Not set",
 "TXT_FREIGHT_NOTIFS"         => "freight notifications", //Number before this
@@ -30,21 +30,21 @@ $langmultiwords = array(
 "TXT_NEW_MSGS"               => "New messages",
 "TXT_NO_NEW_MSGS"            => "No new messages",
 "TXT_PENDING_INVOICES"       => "pending invoices", //Number before this
-"TXT_MY_PROFILE"             => "My Profile",
-"TXT_MY_CALENDAR"            => "My Calendar",
+"TXT_MY_PROFILE"             => "Il Mio Profilo",
+"TXT_MY_CALENDAR"            => "Il Mio Calendario",
 "TXT_MY_INBOX"               => "My Inbox",
-"TXT_CHANGE_PSW"             => "Change Password",
+"TXT_CHANGE_PSW"             => "Cambia Password",
 "TXT_CHANGE_SETTING"         => "Change Setting",
-"TXT_LOG_OUT"                => "Log Out",
+"TXT_LOG_OUT"                => "Esci",
 
-"TXT_COMP_PROFILE"           => "Company Profile",
+"TXT_COMP_PROFILE"           => "Profilo della Compagnia",
 "TXT_CONCERN_PROFILE"        => "Corporation Profile",
-"TXT_USER_PROFILE"           => "User Profile",
+"TXT_USER_PROFILE"           => "Profilo Utente",
 
 "TXT_DAILY_AWARD"            => "Daily Award",
 "TXT_GENERAL_MESSAGE"        => "General Message",
 
-"TXT_FUEL_TANK"              => "Fuel Tank",
+"TXT_FUEL_TANK"              => "Serbatoio di Carburante",
 "TXT_TRUCK_TRAILER_MARKET"   => "Truck & Trailer Market",
 "TXT_JOIN_CONCERN"           => "Join Corporation",
 "TXT_BANK_ACCOUNT"           => "Bank Account",
@@ -56,10 +56,10 @@ $langmultiwords = array(
 
 
 "TXT_EMPLOYEES_UPDATE"       => "Employees Update", //A daily update on information about your employees
-"TXT_TRUCK_DAMAGED"          => "Truck Damaged",
-"TXT_TRAILER_DAMAGED"        => "Trailer Damaged",
+"TXT_TRUCK_DAMAGED"          => "Motrice Danneggiata",
+"TXT_TRAILER_DAMAGED"        => "Rimorchio Danneggiato",
 
-"TXT_ALL_COMPANIES"          => "All Companies",
+"TXT_ALL_COMPANIES"          => "Tutte le Compagnie",
 "TXT_RECORDS_FOUND"          => "Records Found",
 
 "TXT_H_COMPANY_POINTS"       => "Company Points",
@@ -70,26 +70,26 @@ $langmultiwords = array(
 "TXT_LAST_14_DAYS"           => "Last 14 days",
 "TXT_LAST_30_DAYS"           => "Last 30 days",
 
-"TXT_FREIGHTS_COMPLETED"     => "Freights completed",
+"TXT_FREIGHTS_COMPLETED"     => "Trasporti completati",
 "TXT_OPEN_FREIGHTS"          => "Open Freights",
 "TXT_OPEN_FREIGHT"           => "Open Freight",
 
-"TXT_KMS_DRIVEN"             => "KM's driven",
-"TXT_LOW_FUEL"               => "Low fuel",
-"TXT_BAD_CONDITION"          => "Bad condition",
-"TXT_LOW_AWAKE_PERC"         => "Low awake %",
+"TXT_KMS_DRIVEN"             => "Km percorsi",
+"TXT_LOW_FUEL"               => "Carburante scarso",
+"TXT_BAD_CONDITION"          => "Cattive condizioni",
+"TXT_LOW_AWAKE_PERC"         => "Sonno %",
 
 "TXT_NEW_STATUS"             => "New status", //: after this or in a table
 
 "TXT_HIGH_SCORE_RANK"        => "High Score Rank",
-"TXT_PRIVATE_COMPANY"        => "Private Company",
+"TXT_PRIVATE_COMPANY"        => "Compagnia privata",
 "TXT_PART_OF_CONCERN"        => "Part of Corporation", //: after this
 "TXT_PART_OF_A_CONCERN"      => "Part of a Corporation",
 
-"TXT_DELETE_COMPANY"         => "Delete Company",
+"TXT_DELETE_COMPANY"         => "Elimina compagnia",
 "TXT_DELETE_CONCERN"         => "Delete Corporation",
 
-"TXT_DAYS_OLD"               => "days old", //Amount before this
+"TXT_DAYS_OLD"               => "giorni", //Amount before this
 
 "TXT_STEAL_FUEL"             => "Steal Fuel",
 "TXT_FUEL_TANK_PROTECTED"    => "Fuel Tank protected!",
@@ -97,13 +97,13 @@ $langmultiwords = array(
 "TXT_AVAILABLE_AT"           => "Available at", //Countdown Time after this
 "TXT_HIGHER_LEVEL_REQ"       => "Higher Level required!",
 
-"TXT_FIRE_MEMBER"            => "Fire Member",
-"TXT_PROMOTE_MEMBER"         => "Promote Member",
+"TXT_FIRE_MEMBER"            => "Licenzia dipendente",
+"TXT_PROMOTE_MEMBER"         => "Promuovi dipendente",
 "TXT_APPOINT_AS_CEO"         => "Appoint as CEO",
 
-"TXT_TOTAL_MEMBERS"          => "Total members", // : after this
-"TXT_THIS_WEEK"              => "This week",
-"TXT_USER_LEVEL"             => "User Level",
+"TXT_TOTAL_MEMBERS"          => "Dipendenti totali", // : after this
+"TXT_THIS_WEEK"              => "Questa settimana",
+"TXT_USER_LEVEL"             => "Livello Utente",
 "TXT_DONATIONS_OVERVIEW"     => "Donations overview",
 "TXT_AUTO_DAILY_DONATE"      => "Daily donation",
 "TXT_CURRENT_AMOUNT"         => "Current amount", //As in: amount of money
@@ -111,7 +111,7 @@ $langmultiwords = array(
 "TXT_DONATE_MONEY"           => "Donate money",
 
 "TXT_FUEL_LOGS"              => "Fuel Logs",
-"TXT_LITER_PRICE"            => "Liter Price",
+"TXT_LITER_PRICE"            => "Prezzo al Litro",
 
 "TXT_ACCEPTS_COMPANIES"      => "Accepts companies", // : yes or no after this
 "TXT_CONCERN_POINTS"         => "Corporation points",
@@ -122,8 +122,8 @@ $langmultiwords = array(
 "TXT_CONCERN_PROJECTS"       => "Corporation Projects",
 "TXT_CREATE_CONCERN"         => "Create Corporation",
 
-"TXT_FUEL_STATION"           => "Fuel Station",
-"TXT_FUEL_STATIONS"          => "Fuel Stations",
+"TXT_FUEL_STATION"           => "Stazione di Servizio",
+"TXT_FUEL_STATIONS"          => "Stazioni di Servizio",
 "TXT_CONCERN_FREIGHTS"       => "Corporation Freights",
 "TXT_CONCERN_FREIGHT"        => "Corporation Freight",
 "TXT_CONCERN_PROJECT"        => "Corporation Project",
